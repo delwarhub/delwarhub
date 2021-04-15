@@ -1,5 +1,4 @@
 ### Hi My Name is Md Delwar Hossain 👋
-
 <!--
 **delwarhub/delwarhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have worked as a Lecturer Dept. of Computer Science and Engineering at the World University of Bangladesh (WUB). Previously I worked as an ICT Instructor at Community Participation & Development (Project of Save the Children, BD) Dhaka, Bangladesh. Also, I worked as a Trainer of Java and Android Apps Development at Open IT Ltd, Mirpur-10, Dhaka. I completed some professional-certified courses from BASIS, EATL, APPSO, etc. Now, I am studying M.Sc in Cognitive Systems at the University of Potsdam, Germany.
-<br>
+<p align="left">
+I'm a student of the <a href="https://www.ling.uni-potsdam.de/cogsys/" rel="nofollow">Cognitive Systems Master's program</a> at the University of Potsdam, Germany. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lays in Python (Numpy, Pandas, NLTK, Scipy, Sklearn, Pytorch,Matplotlib, ...). I'm currently studying 2nd semester. </p>
+<p align="left">
+I have worked as a Lecturer Dept. of Computer Science and Engineering at the World University of Bangladesh (WUB). Previously I worked as an ICT Instructor at Community Participation & Development (Project of Save the Children, BD) Dhaka, Bangladesh. Also, I worked as a Trainer of Java and Android Apps Development at Open IT Ltd, Mirpur-10, Dhaka. I completed some professional-certified courses from BASIS, EATL, APPSO, etc.
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/md-delwar-hossain-977ba578/" rel="nofollow"><img src="https://camo.githubusercontent.com/71924561236b297d0d9586b0a306d77c776e9e7a53a129550007091281cd636e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
