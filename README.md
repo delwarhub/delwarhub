@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <p align="left">
 I'm a student of the <a href="https://www.ling.uni-potsdam.de/cogsys/" rel="nofollow">Cognitive Systems Master's program</a> at the University of Potsdam, Germany. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lays in Python (Numpy, Pandas, NLTK, Scipy, Sklearn, Pytorch,Matplotlib, ...). I'm currently studying 2nd semester. </p>
 <p align="left">
-I have worked as a Lecturer Dept. of Computer Science and Engineering at the World University of Bangladesh (WUB). Previously I worked as an ICT Instructor at Community Participation & Development (Project of Save the Children, BD) Dhaka, Bangladesh. Also, I worked as a Trainer of Java and Android Apps Development at Open IT Ltd, Mirpur-10, Dhaka. I completed some professional-certified courses from BASIS, EATL, APPSO, etc.
+I worked as a Lecturer Dept. of Computer Science and Engineering at the World University of Bangladesh (WUB) from <b>17th September 2018 to 17th December 2020</b>. Previously I worked as an ICT Instructor at Community Participation & Development (Project of Save the Children, BD) Dhaka, Bangladesh. Also, I worked as a Trainer of Java and Android Apps Development at Open IT Ltd, Mirpur-10, Dhaka. I completed some professional-certified courses from BASIS, EATL, APPSO, etc.
 </p>
 
 <p align="center">
