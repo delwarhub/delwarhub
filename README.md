@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Delwar Hossain</h1>
-<h3 align="left">I'm a student of the Cognitive Systems Master's program at the University of Potsdam, Germany. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lays in Python (Numpy, Pandas, NLTK, Scipy, Sklearn, Pytorch,Matplotlib, ...). I'm currently studying 2nd semester. I worked as a Lecturer Dept. of Computer Science and Engineering at the World University of Bangladesh (WUB) from 17th September 2018 to 17th December 2020. Previously I worked as an ICT Instructor at Community Participation & Development (Project of Save the Children, BD) Dhaka, Bangladesh. Also, I worked as a Trainer of Java and Android Apps Development at Open IT Ltd, Mirpur-10, Dhaka. I completed some professional-certified courses from BASIS, EATL, APPSO, etc.</h3>
+<h2 align="left">I'm a student of the Cognitive Systems Master's program at the University of Potsdam, Germany. That means that I'm specialised in Computational Linguistics, Natural Language Processing and Machine Learning. My main expertise lays in Python (Numpy, Pandas, NLTK, Scipy, Sklearn, Pytorch,Matplotlib, ...). <br>I'm currently studying 3rd semester. I worked as a Lecturer Dept. of Computer Science and Engineering at the World University of Bangladesh (WUB) from 17th September 2018 to 17th December 2020. Previously I worked as an ICT Instructor at Community Participation & Development (Project of Save the Children, BD) Dhaka, Bangladesh. Also, I worked as a Trainer of Java and Android Apps Development at Open IT Ltd, Mirpur-10, Dhaka. I completed some professional-certified courses from BASIS, EATL, APPSO, etc.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delwarhub&label=Profile%20views&color=0e75b6&style=flat" alt="delwarhub" /> </p>
 
@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **NLP, ML, DS, AI**
+- 💬 Ask me about **Machine Learning || Deep Learning || Natural Language Processing**
 
 - 📫 How to reach me **delwar.ieee@gmail.com**
+
+- 📄 Know about my experiences [https://bit.ly/3A8N4Oi](https://bit.ly/3A8N4Oi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
