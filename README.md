@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/delwar55555" target="blank"><img src="https://img.shields.io/twitter/follow/delwar55555?logo=twitter&style=for-the-badge" alt="delwar55555" /></a> </p>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning, Machine Learning and NLP**
 
 - 💬 Ask me about **Machine Learning || Deep Learning || Natural Language Processing**
 
