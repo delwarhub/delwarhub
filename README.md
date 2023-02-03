@@ -16,6 +16,8 @@
 
 - 📄 Know about my experiences [https://bit.ly/3A8N4Oi](https://bit.ly/3A8N4Oi)
 
+- Here are two useful tutorials on building research software that you may find useful: The Good Research Code Handbook: https://goodresearch.dev/index.html and Research Software Engineering With Python: https://github-pages.ucl.ac.uk/rsd-engineeringcourse/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/delwar55555" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="delwar55555" height="30" width="40" /></a>
